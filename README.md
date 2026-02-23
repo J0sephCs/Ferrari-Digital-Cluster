@@ -4,13 +4,13 @@ A high-performance, visually immersive digital instrument cluster built with **Q
 
 <table>
   <tr>
-    <td><img width="1752" height="792" alt="image" src="https://github.com/user-attachments/assets/c459aaf4-f4bf-4ca5-9c8e-99576e50c5d2" /></td>
-    <td><img width="1745" height="790" alt="image" src="https://github.com/user-attachments/assets/0918ff18-9f0e-45d6-971b-b43e5edb8313" /></td>
+    <td><img width="1750" height="790" alt="image" src="https://github.com/user-attachments/assets/c459aaf4-f4bf-4ca5-9c8e-99576e50c5d2" /></td>
+    <td><img width="1750" height="790" alt="image" src="https://github.com/user-attachments/assets/0918ff18-9f0e-45d6-971b-b43e5edb8313" /></td>
   </tr>
 
   <tr>
-    <td><img width="1748" height="793" alt="image" src="https://github.com/user-attachments/assets/bbc8ff5e-a944-4818-a283-20c457c4a631" /></td>
-    <td><img width="1743" height="792" alt="image" src="https://github.com/user-attachments/assets/1fab8a18-a918-4688-be36-b88abd51710a" /></td>
+    <td><img width="1750" height="790" alt="image" src="https://github.com/user-attachments/assets/bbc8ff5e-a944-4818-a283-20c457c4a631" /></td>
+    <td><img width="1750" height="790" alt="image" src="https://github.com/user-attachments/assets/1fab8a18-a918-4688-be36-b88abd51710a" /></td>
   </tr>
 </table>
 
