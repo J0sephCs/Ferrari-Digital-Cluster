@@ -17,6 +17,8 @@ A high-performance, visually immersive digital instrument cluster built with **Q
 </table>
 
 
+## Demo
+<video src="https://github.com/user-attachments/assets/659aa45e-cf92-45d4-a2e2-9ff3ae52f1e2"></video>
 
 
 ## Features
